@@ -1,1 +1,1 @@
-# This is an image enhancement project which uses various algorithms to produce HDR quality images 
+This is an image enhancement project which uses various algorithms to produce HDR quality images 
